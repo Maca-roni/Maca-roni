@@ -1,7 +1,7 @@
 <img src="bocchi_banner1.jpg" width="100%">
 
 # 💫 About Me:
-Student at Batangas State University - Alangilan 🎓 | Game modder & mod creator 🎮 | Big fan of Bocchi the Rock 🎵
+Student at Batangas State University - Alangilan 🎓 | Game modder 🎮 | Avid fan of Bocchi the Rock 🎵
 
 
 # 💻 Tech Stack:
